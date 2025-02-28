@@ -1,0 +1,24 @@
+{
+    "name": "SafeServe",
+    "description": "SAFESERVE BADGE",
+    "symbol": "SS",
+    "image": "https://i.imgur.com/PBMGIqF.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "SAFESERVE BADGE"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "ss.badge"
+        }
+    ]
+}
